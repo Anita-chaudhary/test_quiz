@@ -17,7 +17,7 @@ const QuizEnd = () => {
   } = data;
   return (
     <div className="quiz-end-main-container">
-      <Navbar userName={fullName} />
+      <Navbar pageTitle={fullName} />
       <image />
       {passed ? (
         <div>

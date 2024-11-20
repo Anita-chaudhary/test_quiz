@@ -8,6 +8,7 @@ export default {
         green: "#06af52",
         red: "#af0606",
         gold: "#af9b06",
+        pink: "#B92B5D",
       },
     },
   },
